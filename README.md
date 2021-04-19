@@ -2,8 +2,9 @@
 
 <!--
 **paulo-santana/paulo-santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
+-->
+
 
 <!-- lets hide this a bit - 🔭 I’m currently working on a torrent streaming website! -->
 - 🌱 I’m currently learning Computer Science by HarvardX's online course!
