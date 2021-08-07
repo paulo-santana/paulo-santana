@@ -14,6 +14,6 @@ I'm Paulo, a Software Engineering student
 - 📫 How to reach me: my e-mail: paulo.santana.r@gmail.com, or my [linkedin](https://www.linkedin.com/in/paulostn/). My Discord username is `&> /dev/null#8653`
 - ⚡ Fun fact: ~~Eren não fez nada de errado.~~ Talvez ele tenha feito...
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-santana&show_icons=true&theme=onedark)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-santana&show_icons=true&theme=one)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-santana&layout=compact&theme=onedark)](https://github.com/paulo-santana)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-santana&layout=compact&theme=one)](https://github.com/paulo-santana)
